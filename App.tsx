@@ -1,4 +1,3 @@
-import './index.css';
 import React, { useState, useEffect } from 'react';
 import { Task, Priority, FilterType, SubTask } from './types';
 import TaskCard from './components/TaskCard';
