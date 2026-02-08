@@ -1,0 +1,17 @@
+{
+  "short_name": "TaskMaster",
+  "name": "AI Task Manager Champion",
+  "description": "Умный менеджер задач с искусственным интеллектом для чемпионов.",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff"
+}
